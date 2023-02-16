@@ -14,6 +14,9 @@ initiate a transfer
 Verify a transfer
 Authenticating with OTP
 
+# Some of the dotenv are to be gotten from the client. I placed them 
+# there so you can know what and what needed replacement 💕❤💖
+
 ```
 
 ## About
